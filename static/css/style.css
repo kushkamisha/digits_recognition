@@ -1,0 +1,20 @@
+#paint {
+    border: 2px solid black;
+}
+
+#sketch {
+    width: 300px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+input[type=button] {
+    margin: 20px;
+}
+
+input[type=radio] {
+    margin-left: auto;
+    margin-right: auto;
+}
